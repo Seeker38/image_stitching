@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 The demo is in in demo.ipynb. Just make sure to change the input files 
 
+The data is being create in plot.ipynb
 ## Sources
 The SIFT algorithm is based on 
 [Distinctive Image Features from Scale-Invariant Keypoints (SIFT)](https://people.eecs.berkeley.edu/~malik/cs294/lowe-ijcv04.pdf)
